@@ -1,0 +1,6 @@
+train: /Users/debabratapanda/PycharmProjects/Fracture_Localization_with_Object_Detection/dataset/images/train
+val:   /Users/debabratapanda/PycharmProjects/Fracture_Localization_with_Object_Detection/dataset/images/val
+test:  /Users/debabratapanda/PycharmProjects/Fracture_Localization_with_Object_Detection/dataset/images/test
+
+nc: 1
+names: ['fracture']
